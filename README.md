@@ -1,6 +1,7 @@
 # WordFreq
 Dictionary Matching Text Word Frequency Calculator
-![image](https://github.com/user-attachments/assets/09dbaa36-86cf-4634-b5b5-4e251b7f7c40)
+
+[image](https://github.com/user-attachments/assets/09dbaa36-86cf-4634-b5b5-4e251b7f7c40)
 
 ## Program version: 
 2024/09/21 rev7
